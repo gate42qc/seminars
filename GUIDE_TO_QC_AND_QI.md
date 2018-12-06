@@ -1,4 +1,4 @@
-# GUIDE TO QC 
+# A GUIDE TO QC 
 
 > _“… the laws of physics present no barrier to reducing the size of computers until bits are the size of atoms, and quantum behavior holds sway.”_ Richard P. Feynman (1985)
 
@@ -12,72 +12,75 @@ The guide assumes some knowledge of linear algebra and some programming language
 
 ### PREREQUISITES
 
-* LINEAR ALGEBRA 
-[This MIT course](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/syllabus/) covers matrix theory and linear algebra, emphasizing topics useful in disciplines such as physics, economics and social sciences, natural sciences, and engineering.
-* PROBABILITY THEORY
-**G. R. Grimmett and D. R. Stirzaker. _Probability and Random Processes_. Clarendon Press, Oxford, 1992.**
-**D. Williams. _Probability with Martingales_. Cambridge University Press, Cambridge, 1991.**
-* NUMBER THEORY
-**N. Koblitz._ A Course in Number Theory and Cryptography_. Springer-Verlag, New York, 1994.**
-Chapter 33 of **T. H. Cormen, C. E. Leiserson, and R. L. Rivest. _Introduction to Algorithms_. MIT Press, Cambridge, Mass., 1990**
-Chapter 10 of **G. H. Hardy and E. M. Wright. _An Introduction to the Theory of Numbers_, Fourth Edition. Oxford University Press, London, 1960.**
-* GROUP THEORY
-**J. S. Lomont. _Applications of Finite Groups_. Dover, New York, 1987.
-Group theory in physics --  M. Hammermesh. Group Theory and its Application to Physical Problems. Dover, New York, 1989.**
-* PYTHON
-A good resource for containing a nice introduction to scientific computing as well as more advanced topics in open quantum systems and quantum computation is this [Quantum Toolbox in Python](http://qutip.org/tutorials.html)
-[This gallery of jupyter notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) contains diverse scientific computing materials
+* LINEAR ALGEBRA  
+[This MIT course](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/syllabus/) covers matrix theory and linear algebra, emphasizing topics useful in disciplines such as physics, economics and social sciences, natural sciences, and engineering.  
+
+* PROBABILITY THEORY  
+**G. R. Grimmett and D. R. Stirzaker. _Probability and Random Processes_. Clarendon Press, Oxford, 1992.**  
+**D. Williams. _Probability with Martingales_. Cambridge University Press, Cambridge, 1991.**  
+
+* NUMBER THEORY  
+**N. Koblitz._ A Course in Number Theory and Cryptography_. Springer-Verlag, New York, 1994.**  
+Chapter 33 of **T. H. Cormen, C. E. Leiserson, and R. L. Rivest. _Introduction to Algorithms_. MIT Press, Cambridge, Mass., 1990**  
+Chapter 10 of **G. H. Hardy and E. M. Wright. _An Introduction to the Theory of Numbers_, Fourth Edition. Oxford University Press, London, 1960.**  
+
+* GROUP THEORY  
+**J. S. Lomont. _Applications of Finite Groups_. Dover, New York, 1987.**  
+Group theory in physics -- **M. Hammermesh. _Group Theory and its Application to Physical Problems_. Dover, New York, 1989.**  
+* PYTHON  
+A good resource for containing a nice introduction to scientific computing as well as more advanced topics in open quantum systems and quantum computation is this [Quantum Toolbox in Python](http://qutip.org/tutorials.html)  
+[This gallery of jupyter notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) contains diverse scientific computing materials.
 
 
 
-### ONLINE COURSES
-* [Quantum Mechanics and Quantum Computation](https://www.youtube.com/watch?v=_XoSAS96ES4&index=1&list=PL2jykFOD1AWap0r8WOuZ-08BFgMyx-5RT) (Umesh Vazirani)
-* [Quantum information science I: Part 1](https://courses.edx.org/courses/course-v1:MITx+8.370.1x+1T2018/course/) (Peter Shor)
-* [Quantum information science I: Part 2](https://courses.edx.org/courses/course-v1:MITx+8.370.2x+1T2018/course/) (Peter Shor)
-* [Quantum information science I: Part 3](https://courses.edx.org/courses/course-v1:MITx+8.370.3x+1T2018/course/)  (Peter Shor)
-* [Quantum information science II (Advanced) Part 1: quantum states, noise and error correction](https://courses.edx.org/courses/course-v1:MITx+8.371.1x+2T2018/course/) (Aram Harrow)
-* [Quantum information science II (Advanced) Part 2: efficient quantum computing - fault tolerance and complexity](https://courses.edx.org/courses/course-v1:MITx+8.371.2x+2T2018/course/) (Aram Harrow)
-* [Quantum information science II (Advanced) Part 3:Advanced quantum algorithms and information theory](https://courses.edx.org/courses/course-v1:MITx+8.371.3x+2T2018/course/) (Aram Harrow)
-* [Building blocks of a quantum computer: part 1](https://courses.edx.org/courses/course-v1:DelftX+QTM2x+2T2018/course/) (Delft University)
-* [Building blocks of a quantum computer: part 2](https://courses.edx.org/courses/course-v1:DelftX+QTM3x+3T2018/course/) (Delft University)
-* [Quantum internet and quantum computers](https://courses.edx.org/courses/course-v1:DelftX+QTM1x+1T2018/course/) (Delft University)
-* [Quantum Computing](https://www.coursera.org/learn/kvantovyye-vychisleniya/home/welcome) (in Russian) (Saint Petersburg State University)
-* [Introduction to Quantum Information and Computation from a Foundational Standpoint](http://pirsa.org/C06014) (Jeffrey Bup)
-* [Quantum Information](http://pirsa.org/C15086) (Raymond Laflamme)
-* [Explorations in Quantum Information](http://pirsa.org/C17009) (David Cory)
-* [Quantum Information](http://pirsa.org/C17005) (Multiple Lecturers)
-* [Quantum Information Review](http://pirsa.org/C14010) (Andrew Childs)
-* [Quantum Information](http://pirsa.org/C17049) (Daniel Gottesman)
-* [Quantum Error Correction](http://pirsa.org/C17045) (D. Gottesman and B. Yoshida)
-* [Quantum Cryptography](https://courses.edx.org/courses/course-v1:CaltechDelftX+QuCryptox+3T2018/course/)  (T. Vidick and S. Wehner)
+### ONLINE COURSES  
+* [Quantum Mechanics and Quantum Computation](https://www.youtube.com/watch?v=_XoSAS96ES4&index=1&list=PL2jykFOD1AWap0r8WOuZ-08BFgMyx-5RT) (Umesh Vazirani)  
+* [Quantum information science I: Part 1](https://courses.edx.org/courses/course-v1:MITx+8.370.1x+1T2018/course/) (Peter Shor)  
+* [Quantum information science I: Part 2](https://courses.edx.org/courses/course-v1:MITx+8.370.2x+1T2018/course/) (Peter Shor)  
+* [Quantum information science I: Part 3](https://courses.edx.org/courses/course-v1:MITx+8.370.3x+1T2018/course/)  (Peter Shor)  
+* [Quantum information science II (Advanced) Part 1: quantum states, noise and error correction](https://courses.edx.org/courses/course-v1:MITx+8.371.1x+2T2018/course/) (Aram Harrow)  
+* [Quantum information science II (Advanced) Part 2: efficient quantum computing - fault tolerance and complexity](https://courses.edx.org/courses/course-v1:MITx+8.371.2x+2T2018/course/) (Aram Harrow)  
+* [Quantum information science II (Advanced) Part 3:Advanced quantum algorithms and information theory](https://courses.edx.org/courses/course-v1:MITx+8.371.3x+2T2018/course/) (Aram Harrow)  
+* [Building blocks of a quantum computer: part 1](https://courses.edx.org/courses/course-v1:DelftX+QTM2x+2T2018/course/) (Delft University)  
+* [Building blocks of a quantum computer: part 2](https://courses.edx.org/courses/course-v1:DelftX+QTM3x+3T2018/course/) (Delft University)  
+* [Quantum internet and quantum computers](https://courses.edx.org/courses/course-v1:DelftX+QTM1x+1T2018/course/) (Delft University)  
+* [Quantum Computing](https://www.coursera.org/learn/kvantovyye-vychisleniya/home/welcome) (in Russian) (Saint Petersburg State University)  
+* [Introduction to Quantum Information and Computation from a Foundational Standpoint](http://pirsa.org/C06014) (Jeffrey Bup)  
+* [Quantum Information](http://pirsa.org/C15086) (Raymond Laflamme)  
+* [Explorations in Quantum Information](http://pirsa.org/C17009) (David Cory)  
+* [Quantum Information](http://pirsa.org/C17005) (Multiple Lecturers)  
+* [Quantum Information Review](http://pirsa.org/C14010) (Andrew Childs)  
+* [Quantum Information](http://pirsa.org/C17049) (Daniel Gottesman)  
+* [Quantum Error Correction](http://pirsa.org/C17045) (D. Gottesman and B. Yoshida)  
+* [Quantum Cryptography](https://courses.edx.org/courses/course-v1:CaltechDelftX+QuCryptox+3T2018/course/)  (T. Vidick and S. Wehner)  
 
 
 
 ### MANUALS
-**Michael A. Nielsen & Isaac L. Chuang, _Quantum Computation and Quantum Information_, Cambridge University Press, The Edinburgh Building, Cambridge CB2 8RU, UK, 2010**
-S. Lloyd, [Quantum Information Science](http://web.mit.edu/2.111/www/notes09/spring.pdf) 
-**A. Yu. Kitaev, A.H. Shen, and M.N. Vyalyi, _Classical and Quantum Computation_, American Mathematical Society, Providence, 2002.**
-**W.H. Steeb and Y. Hardy, _Problems & Solutions in Quantum Computing & Information_, World Scientific, River Edge, NJ, 2004.**
-**R.P. Feynman, _Feynman Lectures on Computation_, CRC Press, Taylor & Francis Group, 6000 Broken Sound Parkway NW, Suite 300, Boca Raton, FL 33487-2742, 1996** [(Amazon link)](https://www.amazon.com/Feynman-Lectures-Computation-Frontiers-Physics/dp/0738202967)
-**O. Pittenger, _An Introduction to Quantum Computing Algorithms_, Progress in Computer Science and Applied Logic, v19, 2000**
-**Noson S. Yanofsky, Mirco A. Mannucci, _Quantum Computing for Computer Scientists_, Cambridge University Press, 32 Avenue of the Americas, New York, NY 10013-2473, USA 2008**
-**Colin P. Williams, _Explorations in Quantum Computing_, Springer-Verlag London Limited, 2011**
-**E. Rieffel and W. Polak, _Quantum Computing, A Gentle Introduction_, The MIT Press Cambridge, Massachusetts London, England, 2011**
+* **Michael A. Nielsen & Isaac L. Chuang, _Quantum Computation and Quantum Information_, Cambridge University Press, The Edinburgh Building, Cambridge CB2 8RU, UK, 2010**  
+S. Lloyd, [Quantum Information Science](http://web.mit.edu/2.111/www/notes09/spring.pdf)  
+* **A. Yu. Kitaev, A.H. Shen, and M.N. Vyalyi, _Classical and Quantum Computation_, American Mathematical Society, Providence, 2002.**  
+* **W.H. Steeb and Y. Hardy, _Problems & Solutions in Quantum Computing & Information_, World Scientific, River Edge, NJ, 2004.**  
+* **R.P. Feynman, _Feynman Lectures on Computation_, CRC Press, Taylor & Francis Group, 6000 Broken Sound Parkway NW, Suite 300, Boca Raton, FL 33487-2742, 1996** [(Amazon link)](https://www.amazon.com/Feynman-Lectures-Computation-Frontiers-Physics/dp/0738202967)  
+* **O. Pittenger, _An Introduction to Quantum Computing Algorithms_, Progress in Computer Science and Applied Logic, v19, 2000**  
+* **Noson S. Yanofsky, Mirco A. Mannucci, _Quantum Computing for Computer Scientists_, Cambridge University Press, 32 Avenue of the Americas, New York, NY 10013-2473, USA 2008**  
+* **Colin P. Williams, _Explorations in Quantum Computing_, Springer-Verlag London Limited, 2011**  
+* **E. Rieffel and W. Polak, _Quantum Computing, A Gentle Introduction_, The MIT Press Cambridge, Massachusetts London, England, 2011**  
 
 [The Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/qt-quantcomp/) is a great place to search and read about general topics from more philosophical perspective
 
 
 ### LECTURE NOTES
-John Preskill, [Notes on Quantum Computation](http://www.theory.caltech.edu/people/preskill/ph229), Caltech
-John. Watrous, [Lecture Notes](https://cs.uwaterloo.ca/~watrous/LectureNotes.html), Waterloo
-Scott Aaronson, [Lecture Notes](https://www.scottaaronson.com/blog/?p=3943), UT Austin
-Birgitta Whaley, [Lecture Notes](https://inst.eecs.berkeley.edu/~cs191/fa14/), Berkeley
-Isaak Chuang, [Lecture Notes](http://feynman.mit.edu/ike/homepage/index.html)
+* John Preskill, [Notes on Quantum Computation](http://www.theory.caltech.edu/people/preskill/ph229), Caltech  
+* John. Watrous, [Lecture Notes](https://cs.uwaterloo.ca/~watrous/LectureNotes.html), Waterloo  
+* Scott Aaronson, [Lecture Notes](https://www.scottaaronson.com/blog/?p=3943), UT Austin  
+* Birgitta Whaley, [Lecture Notes](https://inst.eecs.berkeley.edu/~cs191/fa14/), Berkeley  
+* Isaak Chuang, [Lecture Notes](http://feynman.mit.edu/ike/homepage/index.html), MIT  
 
 
 
-### QUANTUM MECHANICS
-#### ONLINE QM COURSES
+### QUANTUM MECHANICS  
+#### ONLINE QM COURSES  
 * [Quantum Mechanics for Everyone](https://courses.edx.org/courses/course-v1:GeorgetownX+PHYX-008-01x+1T2017/course/)
 * [The Quantum world](https://courses.edx.org/courses/course-v1:HarvardX+CHEM160+1T2017/course/)
 * [Mastering Quantum Mechanics](https://courses.edx.org/courses/MITx/8.05x/1T2015/course/) *
@@ -85,12 +88,12 @@ Isaak Chuang, [Lecture Notes](http://feynman.mit.edu/ike/homepage/index.html)
 #### FEYNMAN LECTURES
 A very good start for learning quantum mechanics would be the famous [Feynman Lectures on Physics Vol III](http://www.feynmanlectures.caltech.edu/III_toc.html)
 
-#### GO DEEPER INTO QM ***
-A comprehensive guide to literature on the foundations of quantum mechanics is L. E. Ballentine, “Resource letter IQM2: Foundations of quantum mechanics since the Bell Inequalities”, [Am. J. Phys 55, 785 (1987)](https://aapt.scitation.org/doi/10.1119/1.14988)
+#### GO DEEPER INTO QM ***  
+* A comprehensive guide to literature on the foundations of quantum mechanics is L. E. Ballentine, “Resource letter IQM2: Foundations of quantum mechanics since the Bell Inequalities”, [Am. J. Phys 55, 785 (1987)](https://aapt.scitation.org/doi/10.1119/1.14988)  
 **_Textbooks_:**
-**J.J. Sakurai, J. Napolitano, _Modern Quantum Mechanics_, Cambridge University Press, 2017.**
-**L.E. Ballentine, _Quantum Mechanics: A Modern Development_, World Scientific Publishing Co. Pte. Ltd. 2003**
-**Asher Peres, _Quantum  Theory: Concepts and Methods_, Kluwer Academic Publishers, New York, Boston, Dordrecht, London, Moscow 2002**
+* **J.J. Sakurai, J. Napolitano, _Modern Quantum Mechanics_, Cambridge University Press, 2017.**  
+* **L.E. Ballentine, _Quantum Mechanics: A Modern Development_, World Scientific Publishing Co. Pte. Ltd. 2003**  
+* **Asher Peres, _Quantum  Theory: Concepts and Methods_, Kluwer Academic Publishers, New York, Boston, Dordrecht, London, Moscow 2002**
 
 
 
@@ -135,28 +138,28 @@ There are already a handful of programming frameworks that allow access to quant
 * [Quantum Frontiers](https://quantumfrontiers.com/ ) by CalTech 
 
 ##### RSS FEEDS
-Quantum Information - nature.com [http://feeds.nature.com/npjqi/rss/current](http://feeds.nature.com/npjqi/rss/current)
-PRL: General Physics: Statistical and Quantum Mechanics, Quantum Information, etc. [http://feeds.aps.org/rss/tocsec/PRL-GeneralPhysicsStatisticalandQuantumMechanicsQuantumInformationetc.xml](http://feeds.aps.org/rss/tocsec/PRL-GeneralPhysicsStatisticalandQuantumMechanicsQuantumInformationetc.xml)
-PRA: Quantum information [http://feeds.aps.org/rss/tocsec/PRA-Quantuminformation.xml](http://feeds.aps.org/rss/tocsec/PRA-Quantuminformation.xml) 
-MIT News - Quantum computing [http://news.mit.edu/rss/topic/quantum-computing](http://news.mit.edu/rss/topic/quantum-computing) 
-Shtetl-Optimized [https://www.scottaaronson.com/blog/?feed=rss2](https://www.scottaaronson.com/blog/?feed=rss2) 
-Comments on: News [https://quantumcomputingreport.com/news/feed/](https://quantumcomputingreport.com/news/feed/) 
-Physics Today Magazine [http://feeds.feedburner.com/physicstoday/pt1?format=xml](http://feeds.feedburner.com/physicstoday/pt1?format=xml)
-Rigetti Tech Blog [https://rigetticomputing.github.io/blog/feed.xml](https://rigetticomputing.github.io/blog/feed.xml) 
-Microsoft Quantum [https://cloudblogs.microsoft.com/quantum/feed/](https://cloudblogs.microsoft.com/quantum/feed/)
-Stories by Rigetti Computing on Medium [https://medium.com/feed/@rigetticomputing](https://medium.com/feed/@rigetticomputing) 
-Algorithmic Assertions - Craig Gidney's Computer Science Blog [http://algassert.com/feed](http://algassert.com/feed) 
-Quantum Frontiers [https://quantumfrontiers.com/feed/](https://quantumfrontiers.com/feed/) 
-QuTechBlog – Bits of Quantum [http://blog.qutech.nl/index.php/author/qutechblog/feed/](http://blog.qutech.nl/index.php/author/qutechblog/feed/) 
-The Quantum Pontiff [http://dabacon.org/pontiff/?feed=rss2](http://dabacon.org/pontiff/?feed=rss2) 
-American Institute of Physics: Journal of Mathematical Physics: Table of Contents [https://aip.scitation.org/action/showFeed?type=etoc&feed=rss&jc=jmp](https://aip.scitation.org/action/showFeed?type=etoc&feed=rss&jc=jmp) 
-Stories by Dr James Wootton on Medium [https://medium.com/feed/@decodoku](https://medium.com/feed/@decodoku) 
-quanta rei [https://quantarei.wordpress.com/feed/](https://quantarei.wordpress.com/feed/) 
+Quantum Information - nature.com [http://feeds.nature.com/npjqi/rss/current](http://feeds.nature.com/npjqi/rss/current)  
+PRL: General Physics: Statistical and Quantum Mechanics, Quantum Information, etc. [http://feeds.aps.org/rss/tocsec/PRL-GeneralPhysicsStatisticalandQuantumMechanicsQuantumInformationetc.xml](http://feeds.aps.org/rss/tocsec/PRL-GeneralPhysicsStatisticalandQuantumMechanicsQuantumInformationetc.xml)  
+PRA: Quantum information [http://feeds.aps.org/rss/tocsec/PRA-Quantuminformation.xml](http://feeds.aps.org/rss/tocsec/PRA-Quantuminformation.xml)  
+MIT News - Quantum computing [http://news.mit.edu/rss/topic/quantum-computing](http://news.mit.edu/rss/topic/quantum-computing)  
+Shtetl-Optimized [https://www.scottaaronson.com/blog/?feed=rss2](https://www.scottaaronson.com/blog/?feed=rss2)  
+Comments on: News [https://quantumcomputingreport.com/news/feed/](https://quantumcomputingreport.com/news/feed/)  
+Physics Today Magazine [http://feeds.feedburner.com/physicstoday/pt1?format=xml](http://feeds.feedburner.com/physicstoday/pt1?format=xml)  
+Rigetti Tech Blog [https://rigetticomputing.github.io/blog/feed.xml](https://rigetticomputing.github.io/blog/feed.xml)   
+Microsoft Quantum [https://cloudblogs.microsoft.com/quantum/feed/](https://cloudblogs.microsoft.com/quantum/feed/)  
+Stories by Rigetti Computing on Medium [https://medium.com/feed/@rigetticomputing](https://medium.com/feed/@rigetticomputing)  
+Algorithmic Assertions - Craig Gidney's Computer Science Blog [http://algassert.com/feed](http://algassert.com/feed)  
+Quantum Frontiers [https://quantumfrontiers.com/feed/](https://quantumfrontiers.com/feed/)  
+QuTechBlog – Bits of Quantum [http://blog.qutech.nl/index.php/author/qutechblog/feed/](http://blog.qutech.nl/index.php/author/qutechblog/feed/)  
+The Quantum Pontiff [http://dabacon.org/pontiff/?feed=rss2](http://dabacon.org/pontiff/?feed=rss2)  
+American Institute of Physics: Journal of Mathematical Physics: Table of Contents [https://aip.scitation.org/action/showFeed?type=etoc&feed=rss&jc=jmp](https://aip.scitation.org/action/showFeed?type=etoc&feed=rss&jc=jmp)  
+Stories by Dr James Wootton on Medium [https://medium.com/feed/@decodoku](https://medium.com/feed/@decodoku)  
+quanta rei [https://quantarei.wordpress.com/feed/](https://quantarei.wordpress.com/feed/)  
 
 
 ### QUANTUM COMPUTING STACK EXCHANGE 
 [Quantum computing stack exchange](https://quantumcomputing.stackexchange.com/?fbclid=IwAR0nXNosFNBrCUIYyqyBuX0m0R22tt2biK9q3QfmosF9jquyiA33LjIDFOs) is a good place to ask or answer questions.
-Quantum Computing Stack Exchange is a question and answer site for engineers, scientists, programmers, and computing professionals interested in quantum computing. Join them
+Quantum Computing Stack Exchange is a question and answer site for engineers, scientists, programmers, and computing professionals interested in quantum computing. Join them.
 
 
 
@@ -173,17 +176,17 @@ Before diving deep into research and read scientific papers, we suggest the read
 Do not be deterred if an article seems impenetrable. Keep in mind that professors and professionals also struggle to understand these articles, and take comfort in this epigram usually attributed to the great physicist Richard Feynman:
 “If you think you understand quantum mechanics, you don’t understand quantum mechanics.”
 Some articles are difficult to understand not only because quantum theory is devilishly elusive but also because scientific writing can be opaque. Fortunately, there are techniques for tackling scientific articles, beginning with these preliminary steps:
-1. **Read the title. It may contain clues about the article’s purpose or findings.**
-1. **Read the abstract. It summarizes the article and will help you recognize important points when you read them.**
-1. **Read the introduction and conclusion. Usually in plain language, the introduction and conclusion will help you decode the rest of the article.**
-1. **Skim the article. Skim to get a sense of the article’s structure, which will help you stay oriented while you read.**
-Once you understand an article’s purpose and structure, you are ready to read the full article. To maximize comprehension and minimize frustration, follow these tips:
-1. Read actively. Take notes while you read. Underline key phrases; mark important passages; record important points; sketch arguments and proofs; and reproduce calculations. (Of course, don’t write on anything owned by a library; make copies instead)
-1. Don’t dwell. Skim or skip difficult parts and return to them later. They might make more sense after you have read subsequent sections
-1. Consult the bibliography. If something confuses you, one of the cited articles might explain it better or provide helpful background information
-1. Read the article multiple times. You’ll understand more with each pass
-1. Know when to stop. Don’t obsess over an article. At some point, you will have gotten as much as you are going to get (for the time being). Some or even most of the article might still elude you; nevertheless, you will know more after reading the article than you did before you started, and you will then be better equipped to read other articles
-1. Talk about the article. Mull over the article with other group members, and ASK QUESTIONS if you need help. After you have finished the article, keep talking about it. Explain it to a group member, or even to someone unfamiliar with the field. After all, the best way to learn something is to teach it to someone else!
+* **Read the title. It may contain clues about the article’s purpose or findings.**
+* **Read the abstract. It summarizes the article and will help you recognize important points when you read them.**
+* **Read the introduction and conclusion. Usually in plain language, the introduction and conclusion will help you decode the rest of the article.**
+* **Skim the article. Skim to get a sense of the article’s structure, which will help you stay oriented while you read.**
+_Once you understand an article’s purpose and structure, you are ready to read the full article. To maximize comprehension and minimize frustration, follow these tips_:
+1.**Read actively. Take notes while you read. Underline key phrases; mark important passages; record important points; sketch arguments and proofs; and reproduce calculations. (Of course, don’t write on anything owned by a library; make copies instead)**
+1. **Don’t dwell. Skim or skip difficult parts and return to them later. They might make more sense after you have read subsequent sections**
+1. **Consult the bibliography. If something confuses you, one of the cited articles might explain it better or provide helpful background information**
+1. **Read the article multiple times. You’ll understand more with each pass**
+1. **Know when to stop. Don’t obsess over an article. At some point, you will have gotten as much as you are going to get (for the time being). Some or even most of the article might still elude you; nevertheless, you will know more after reading the article than you did before you started, and you will then be better equipped to read other articles**
+1. **Talk about the article. Mull over the article with other group members, and ASK QUESTIONS if you need help. After you have finished the article, keep talking about it. Explain it to a group member, or even to someone unfamiliar with the field. After all, the best way to learn something is to teach it to someone else!**
 
 
 
