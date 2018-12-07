@@ -207,8 +207,10 @@ Some articles are difficult to understand not only because quantum theory is dev
 * **Read the title. It may contain clues about the article’s purpose or findings.**
 * **Read the abstract. It summarizes the article and will help you recognize important points when you read them.**
 * **Read the introduction and conclusion. Usually in plain language, the introduction and conclusion will help you decode the rest of the article.**
-* **Skim the article. Skim to get a sense of the article’s structure, which will help you stay oriented while you read.**
-_Once you understand an article’s purpose and structure, you are ready to read the full article. To maximize comprehension and minimize frustration, follow these tips_:
+* **Skim the article. Skim to get a sense of the article’s structure, which will help you stay oriented while you read.**  
+
+_Once you understand an article’s purpose and structure, you are ready to read the full article. To maximize comprehension and minimize frustration, follow these tips_:  
+
 1.**Read actively. Take notes while you read. Underline key phrases; mark important passages; record important points; sketch arguments and proofs; and reproduce calculations. (Of course, don’t write on anything owned by a library; make copies instead)**
 1. **Don’t dwell. Skim or skip difficult parts and return to them later. They might make more sense after you have read subsequent sections**
 1. **Consult the bibliography. If something confuses you, one of the cited articles might explain it better or provide helpful background information**
