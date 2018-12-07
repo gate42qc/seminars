@@ -25,7 +25,7 @@ The guide assumes some knowledge of linear algebra and some programming language
 	3. [Quantum Algorithms](#Quantum-Algorithms)
 	4. [Quantum Complexity](#Quantum-Complexity)
 	5. [Quantum Simulation](#Quantum-Simulation)
-	6. [Quantum Hardware: Physical Realizations](#Quantum-Hardware:-Physical-Realizations)
+	6. [Quantum Hardware: Physical Realizations](#Quantum-Hardware)
 		1. [General review](#General-review)
 		2. [Spin](#Spin)
 		3. [Ion traps](#Ion-traps)
@@ -34,6 +34,9 @@ The guide assumes some knowledge of linear algebra and some programming language
 		6. [Superconducting](#Superconducting)
 		7. [Topological](#Topological)
 	7. [Quantum Cryptography](#Quantum-Cryptography)
+	8. [Quantum Error Correction](#Quantum-Error-Correction)
+	9. [Quantum Machine Learning](#Quantum-Machine-Learning)
+	10. [More topics (Mainly Open Areas of Research)](#More-topics)
 ### PREREQUISITES
 
 * LINEAR ALGEBRA  
@@ -253,7 +256,7 @@ We have collected a list of references classified by topics that may help the re
 1. H. Lamm, “Simulation of Nonequilibrium Dynamics on a Quantum Computer”, arXiv:1806.06649v3 (2018)
 
 
-#### Quantum Hardware (Physical Realizations)  
+#### Quantum Hardware (Physical Realizations) <a name="Quantum-Hardware"></a> 
 ###### General review  <a name="General-review"></a>
 1. T. D. Ladd et. al., “Quantum computers” nature 464, 45 (2010)
 ###### Ion traps <a name="Ion-traps"></a>
@@ -331,7 +334,7 @@ D.R. Leibrandt et. al., “Demonstration of a scalable, multiplexed ion trap for
 1. A github repository of resources
 
 
-#### More topics (Mainly Open Problem Topics)
+#### More topics (Mainly Open Areas of Research) <a name="More-topics"></a>
 - Quantum Error Correction Beyond Stabilizer States
 - Efficient Classical Simulation of Stabilizer Circuits
 - What is the Threshold for Reliable Classical Computation 
