@@ -19,6 +19,7 @@ The guide assumes some knowledge of linear algebra and some programming language
 - [VIDEO LECTURES FROM INTERNATIONAL SUMMER SCHOOLS AND CONFERENCES](#VIDEO-LECTURES-FROM-INTERNATIONAL-SUMMER-SCHOOLS-AND-CONFERENCES)
 - [QUANTUM PROGRAMMING FRAMEWORKS](#QUANTUM-PROGRAMMING-FRAMEWORKS)
 - [STAY UP-TO-DATE](#STAY-UP-TO-DATE)
+- [ROADMAPS](#roadmaps)
 - [RESEARCH TOPICS WITH REFERENCES](#RESEARCH-TOPICS-WITH-REFERENCES)
 	1. [Quantum Computation](#Quantum-Computation) 
 	2. [Quantum Information](#Quantum-Information)
@@ -191,8 +192,11 @@ Quantum Computing Stack Exchange is a question and answer site for engineers, sc
 
 
 
+### ROADMAPS <a name="roadmaps"></a>
+Find out the recent theoretical and experimental developments as well as near- mid- and far-term goals in quantum computing in the following comprehensive roadmaps:  
 
-
+- [Quantum Computing: Progress and Prospects (2018)](https://www.nap.edu/catalog/25196/quantum-computing-progress-and-prospects)
+- A. Acín et. al.,)"The quantum technologies roadmap: a European community view", [New J. Phys. 20 080201 (2018)](http://iopscience.iop.org/article/10.1088/1367-2630/aad1ea/meta)
 
 
 ### RESEARCH TOPICS WITH REFERENCES
@@ -222,18 +226,30 @@ _Once you understand an article’s purpose and structure, you are ready to read
 
 
 We have collected a list of references classified by topics that may help the reader to focus on a specific topic. The list by no means is comprehensive.
+
 #### Quantum Computation  
 1. [A quantum computation roadmap by LANL](https://qist.lanl.gov/qcomp_map.shtml)
 1. [A tutorial by Samuel Braunstein](https://www-users.cs.york.ac.uk/~schmuel/comp/comp_best.pdf)
 1. [A review by Andrew Steane (1997)](https://arxiv.org/abs/quant-ph/9708022v2)
 1. [A review by Dorit Aharonov (2008)](https://arxiv.org/abs/quant-ph/9812037v1)
 1. D. P. DiVincenzo, “Quantum Computation”, Science **270**, 255 (1995)
+
+
 #### Quantum Information  
 1. By C. E. Shannon, “A Mathematical Theory of Communication”, The Bell System Technical Journal **27**, pp. 379-423, 623-656 (1957)
 1. E. B. Davies, “Information and Quantum Measurement”, IEEE trans. on information theory, **24**, 596 (1978)
 1. E. Knill et. al., “Introduction to Quantum Information Processing”, [arXiv:quant-ph/0207171 (2002)](https://arxiv.org/abs/quant-ph/0207171)
+
+
 #### Quantum Algorithms  
-1. [Algebraic and Number Theoretic Algorithms](https://math.nist.gov/quantum/zoo/) (Quantum Algorithm Zoo, a comprehensive catalog of quantum algorithms)
+20 algrithms implementations on IBM's 5-qubit quantum computer, including Shor's prime factoring, Grover's database search, etc., can be found in  
+1. Quantum Algorithm Implementations for Beginners [arXiv: 1804.03719 (2018)] (https://arxiv.org/abs/1804.03719)  
+
+Quantum Algorithm Zoo, a comprehensive catalog of quantum algorithms
+1. [Algebraic and Number Theoretic Algorithms](https://math.nist.gov/quantum/zoo/) 
+
+
+
 #### Quantum Complexity  
 1. L.G. Valiant, “The complexity of computing the permanent”, Theoretical Computer Science **8**, 189 (1979).
 1. C. Bennett, “Time/space trade-offs for reversible computation”, Siam J. Comput. **18**, 766 (1989)
