@@ -204,131 +204,140 @@ _Once you understand an article’s purpose and structure, you are ready to read
 
 
 We have collected a list of references classified by topics that may help the reader to focus on a specific topic. The list by no means is comprehensive.
-Quantum Computation
-A quantum computation roadmap by LANL
-A tutorial by Samuel Braunstein
-A review by Andrew Steane (1997)
-A review by Dorit Aharonov (2008)
-D. P. DiVincenzo, “Quantum Computation”, Science 270, 255 (1 995)
-Quantum Information
-By C. E. Shannon, “A Mathematical Theory of Communication”, The Bell System Technical Journal 27, pp. 379-423, 623-656 (1957)
-E. B. Davies, “Information and Quantum Measurement”, IEEE trans. on information theory, 24, 596 (1978)
-E. Knill et. al., “Introduction to Quantum Information Processing”, arXiv:quant-ph/0207171 (2002)
-Quantum Algorithms
-Algebraic and Number Theoretic Algorithms (Quantum Algorithm Zoo, a comprehensive catalog of quantum algorithms)
-Quantum Complexity
-L.G. Valiant, “The complexity of computing the permanent”, Theoretical Computer Science 8, 189 (1979).
-C. Bennett, “Time/space trade-offs for reversible computation”, Siam J. Comput. 18, 766 (1989)
-R. Levine, A. Sherman, “A note on Bennett’s tradeoff for reversible computation”,  Siam J. Comput. 19, 673 (1990)
-A. Shamir, “IP = PSPACE”, Journal of the Association for Computing Machinery, 39, 869 (1992)
-E. Bernstein, U. Vazirani, “Quantum complexity theory”, Siam J. Comput. 26, 1411 (1997)
-J. Preskill, “Quantum Computing in the NISQ era and beyond”, arXiv:1801.00862 (2018)
-S. Aaronson, “PDQP/qpoly = ALL”, arXiv:1805.08577 (2018)
-R. Raz, A. Tal, “Oracle Separation of BQP and PH”, Electronic Colloquium on Computational Complexity, Report No. 107 (2018)
+##### Quantum Computation  
+1. A quantum computation roadmap by LANL
+1. A tutorial by Samuel Braunstein
+1. A review by Andrew Steane (1997)
+1. A review by Dorit Aharonov (2008)
+1. D. P. DiVincenzo, “Quantum Computation”, Science 270, 255 (1 995)
+##### Quantum Information  
+1. By C. E. Shannon, “A Mathematical Theory of Communication”, The Bell System Technical Journal 27, pp. 379-423, 623-656 (1957)
+1. E. B. Davies, “Information and Quantum Measurement”, IEEE trans. on information theory, 24, 596 (1978)
+1. E. Knill et. al., “Introduction to Quantum Information Processing”, arXiv:quant-ph/0207171 (2002)
+##### Quantum Algorithms  
+1. Algebraic and Number Theoretic Algorithms (Quantum Algorithm Zoo, a comprehensive catalog of quantum algorithms)
+##### Quantum Complexity  
+1. L.G. Valiant, “The complexity of computing the permanent”, Theoretical Computer Science 8, 189 (1979).
+1. C. Bennett, “Time/space trade-offs for reversible computation”, Siam J. Comput. 18, 766 (1989)
+1. R. Levine, A. Sherman, “A note on Bennett’s tradeoff for reversible computation”,  Siam J. Comput. 19, 673 (1990)
+1. A. Shamir, “IP = PSPACE”, Journal of the Association for Computing Machinery, 39, 869 (1992)
+1. E. Bernstein, U. Vazirani, “Quantum complexity theory”, Siam J. Comput. 26, 1411 (1997)
+1. J. Preskill, “Quantum Computing in the NISQ era and beyond”, arXiv:1801.00862 (2018)
+1. S. Aaronson, “PDQP/qpoly = ALL”, arXiv:1805.08577 (2018)
+1. R. Raz, A. Tal, “Oracle Separation of BQP and PH”, Electronic Colloquium on Computational Complexity, Report No. 107 (2018)
 
 
-Quantum Simulation
-S. Lloyd “Universal quantum simulators”, Science 273, 1073 (1996)
-I. Bloch et. al., “Quantum simulation with ultracold atomic gases” Nat. Phys. 8, 267 (2012)
-D. Bacon et. al., “Universal simulation of Markovian quantum dynamics”, arXiv:quant-ph/0008070 (2001)
-R. Blatt et. al. “Quantum simulation with trapped ions” Nat. Phys. 8, 277 (2012)
-S. Trotzky et. al., “Probing the relaxation towards equilibrium in an isolated strongly correlated 1D Bose gas” Nat. Phys. 8, 325 (2012)
-I. Georgescu et. al., “Quantum simulation” Rev. Mod. Phys. 86, 153 (2014)
-J. Eisert et. al., “Quantum many-body systems out of equilibrium” Nat. Phys. 11, 124 (2015)
-P. J. J. O’Malley et. al., “Scalable Quantum Simulation of Molecular Energies”, Phys. Rev. X 6, 031007 (2016)
-A. M. Childs et. al., “Toward the first quantum simulation with quantum speedup” arXiv:1711.10980 (2017)
-H. Lamm, “Simulation of Nonequilibrium Dynamics on a Quantum Computer”, arXiv:1806.06649v3 (2018)
-Quantum Hardware (Physical Realizations)
-General review
-T. D. Ladd et. al., “Quantum computers” nature 464, 45 (2010)
-Ion traps
-R. Blatt et. al., “Entangled states of trapped atomic ions”, Nature 453, 1008 (2008)
-J. P. Home et. al., “Complete methods set for scalable ion trap quantum information processing”, Science 325, 1227 (2009)
+##### Quantum Simulation  
+1. S. Lloyd “Universal quantum simulators”, Science 273, 1073 (1996)
+1. I. Bloch et. al., “Quantum simulation with ultracold atomic gases” Nat. Phys. 8, 267 (2012)
+1. D. Bacon et. al., “Universal simulation of Markovian quantum dynamics”, arXiv:quant-ph/0008070 (2001)
+1. R. Blatt et. al. “Quantum simulation with trapped ions” Nat. Phys. 8, 277 (2012)
+1. S. Trotzky et. al., “Probing the relaxation towards equilibrium in an isolated strongly correlated 1D Bose gas” Nat. Phys. 8, 325 (2012)
+1. I. Georgescu et. al., “Quantum simulation” Rev. Mod. Phys. 86, 153 (2014)
+1. J. Eisert et. al., “Quantum many-body systems out of equilibrium” Nat. Phys. 11, 124 (2015)
+1. P. J. J. O’Malley et. al., “Scalable Quantum Simulation of Molecular Energies”, Phys. Rev. X 6, 031007 (2016)
+1. A. M. Childs et. al., “Toward the first quantum simulation with quantum speedup” arXiv:1711.10980 (2017)
+1. H. Lamm, “Simulation of Nonequilibrium Dynamics on a Quantum Computer”, arXiv:1806.06649v3 (2018)
+
+
+##### Quantum Hardware (Physical Realizations)  
+- General review  
+1. T. D. Ladd et. al., “Quantum computers” nature 464, 45 (2010)
+- Ion traps
+1. R. Blatt et. al., “Entangled states of trapped atomic ions”, Nature 453, 1008 (2008)
+1. J. P. Home et. al., “Complete methods set for scalable ion trap quantum information processing”, Science 325, 1227 (2009)
 D.R. Leibrandt et. al., “Demonstration of a scalable, multiplexed ion trap for quantum information processing”, Quantum Information and Computation, 9, 901 (2009)
-C. Monroe et. al., “Scaling the ion trap quantum processor”, Science 339, 1164 (2013)
+1. C. Monroe et. al., “Scaling the ion trap quantum processor”, Science 339, 1164 (2013)
 Spin
-D Loss et. al., “Quantum computation with quantum dots” Phys. Rev A 57, 120 (1998)
-J. M. Elzerman et. al., “Single-shot read-out of an individual electron spin in a quantum dot”, nature 430, 431 (2004)
-F. H. L. Koppens et. al., “Driven coherent oscillations of a single electron spin in a quantum dot”, nature 442, 766 (2006)
-R. Hanson et. al., “Spins in few-electron quantum dots”, Rev. Mod. Phys, 79, 1217 (2007)
-M. Veldhorst et. al., “An addressable quantum dot qubit with fault-tolerant control-fidelity”, nature nanotechnology, 9, 981 (2014)
-M. Veldhorst et. al., “A two-qubit logic gate in silicon”, nature 526, 410 (2015)
-L. M. K. Vandersypen et. al., “Interfacing spin qubits in quantum dots and donors—hot, dense, and coherent”, npj Quantum Information 3, 1 (2017), open access doi:10.1038/s41534-017-0038-y
-T. F. Watson et. al., “A programmable two-qubit quantum processor in silicon”, nature 555, 633 (2018)
-NV-centers
-G. Waldherr et. al. “Quantum error correction in a solid-state hybrid spin register”, nature 506, 204 (2014)
-B. Hensen et. al., “Loophole-free Bell inequality violation using electron spins separated by 1.3 kilometres”, nature, 526, 682 (2015)
-G. Tosi et. al., “Silicon quantum processor with robust long-distance qubit couplings” Nat. Commun. 8, 450 (2017)
-P.C. Humphreys et. al., “Deterministic delivery of remote entanglement on a quantum network”, nature, 558, 268 (2018)
-Photonic
-E. Knill et. al., “A scheme for efficient quantum computation with linear optics”, nature, 409, 46 (2001)
-J.L. O'Brien, “Optical Quantum Computing”, Science 318, 1567 (2007)
-Xing-Can Yao et. al., “Experimental demonstration of topological error correction”, nature 482, 489 (2012)
-T. Meany et. al., “Engineering integrated photonics for heralded quantum gates”, Sci. Rep. 6, 25126 (2016)
-J-I Yoshikawa et. al., “Generation of one-million-mode continuous-variable cluster state by unlimited time-domain multiplexing”, APL Photon. 1, 060801 (2016)
-Superconducting
-Before diving deep into the papers, it is recommended to study this introduction to the subject that adopts the elegant Lagrangian formalism to set up the field. 
-U. Vool, M. Devoret, Introduction to Quantum Electromagnetic Circuits arXiv:1610.03438 (2017)
-Y. Nakamura et. al., “Coherent control of macroscopic quantum states in a single-cooper-pair box”, Nature 398, 786 (1999)
-Alexandre Blais et. al., “Cavity quantum electrodynamics for superconducting electrical circuits: An architecture for quantum computation ”Phys. Rev A 69, 062320 (2004)
-Jens Koch et. al., “Charge-insensitive qubit design derived from the Cooper pair box”, Phys. Rev. A 76, 042319 (2007)
-J. A. Schreier et. al., “Suppressing charge noise decoherence in superconducting charge qubits”, Phys. Rev. B 77, 180502(R) (2008)
-Austin G. Fowler, “Surface codes: Towards practical large-scale quantum computation”, Phys. Rev. A 86, 032324 (2012)
-M.H. Devoret et. al., “Superconducting circuits for quantum information: an outlook” Science 339, 1169 (2013)
-Jerry M. Chow et. al., “Implementing a strand of a scalable fault-tolerant quantum computing fabric”, nature communications 5, 1 (2014)
-S. Asaad et. al., “Independent, extensible control of same-frequency superconducting qubits by selective broadcasting”, npj Quantum Information 2, 1 (2016), open access doi:10.1038/npjqi.2016.29
-T. Walter et. al., Rapid High-Fidelity Single-Shot Dispersive Readout of Superconducting Qubits Phys., Rev. Applied 7, 054020 (2017)
-R. Versluis et. al., “Scalable Quantum Circuit and Control for a Superconducting Surface Code”, Phys. Rev Applied 8, 034021 (2017)
-Topological
-Y. Oreg et. al., “Helical Liquids and Majorana Bound States in Quantum Wires”, Phys. Rev. Lett. 105, 177002 (2010)
-V. Mourik et. al., “Signatures of Majorana Fermions in Hybrid Superconductor-Semiconductor Nanowire Devices”, Science 336, 1003 (2012)
-T. Hyart et. al., “Flux-controlled quantum computation with Majorana fermions”, Phys. Rev. B 88, 035121 (2013)
-S.R. Plissard, “Formation and electronic properties of InSb nanocrosses”, nature nanotechnology 8, 589 (2013)
-D. Car, “Rationally Designed Single-Crystalline Nanowire Networks”, Adv. Mater., 26, 4875 (2014)
-S. Nadj-Perge et. al., “Observation of Majorana fermions in ferromagnetic atomic chains on a superconductor”, Science 346, 602 (2014)
- D. Aasen et. al., “Milestones Toward Majorana-Based Quantum Computing”, Phys. Rev. X 6, 031016 (2016)
-S. Vijay et. al., “Teleportation-based quantum information processing with Majorana zero modes”, Phys. Rev. B 94, 235446 (2016)
-S. M. Albrecht, “Exponential protection of zero modes in Majorana islands”, nature 531, 206 (2016)
-S. Gazibegovic, “Epitaxy of advanced nanowire quantum devices”, nature 548, 434 (2017)
-R.M. Lutchyn et. al., “Transport through a Majorana Island in the Strong Tunneling Regime”, Phys. Rev. Lett. 119, 057002 (2017)
-V.T. Lahtinen et. al., “A Short Introduction to Topological Quantum Computation”, arXiv:1705.04103 (2017)
-T. Karzig et. al., “Scalable designs for quasiparticle - poisoning - protected topological quantum computation with Majorana zero modes”, Phys. Rev. B 95, 235305 (2017)
-H. Zhang, “Quantized Majorana conductance” nature 556, 74 (2018)
-Quantum Cryptography
-A quantum cryptography roadmap by LANL
-Quantum Error Correction
-S. J. Devitt, “Quantum Error Correction for Beginners”, arXiv:0905.2794 (2013)
-E. Knill et. al., “Introduction to Quantum Error Correction”, arxiv:quant-ph/0207170 (2008)
-D. Gottesman, “Stabilizer Codes and Quantum Error Correction” (Thesis) arXiv:quant-ph/9705052 (1997)
-Group theoretic approach
-A. R. Calderbank et. al., “Quantum Error Correction and Orthogonal Geometry”, Phys. Rev. Lett. 78, 405 (1997)
-A. R. Calderbank et. al.,, “Quantum Error Correction Via Codes Over GF (4)”, arXiv:quant-ph/9608006 (1997)
-Fault tolerance
-P.W Shor, “Fault-tolerant quantum computation”, arXiv:quant-ph/9605011 (1996)
-J. Preskill, “Fault-tolerant quantum computation” arXiv:quant-ph/9712048 (1997)
-A.R. Calderbank and P.W. Shor, “Good quantum error-correcting codes exist”, Phys. Rev. A 54, 1098 (1996)
-Quantum Machine Learning
-A github repository of resources 
-More topics (Mainly Open Problems)
-Quantum Error Correction Beyond Stabilizer States
-Efficient Classical Simulation of Stabilizer Circuits
-What is the Threshold for Reliable Classical Computation 
-Simulating Quantum Mechanics from the Gottesman-Knill Theorem
-Canonical Decompositions of Quantum Circuits
-Fault Tolerant Quantum Computation with 5-qubit and CWS Codes
-Magic States for Universal Quantum Computing
-Classical Circuits and the Ck Family
-Threshold for Fault-Tolerant Quantum Computation
-Blind Quantum Computation
-New Quantum Algorithms for Hard Problems
-Quantum Algorithm on Graphs
-Shur: Beyond the Quantum Fourier Transform
-Post-Quantum Cryptography
-Public Key Quantum Cryptography
-Entropies of Various Quantum Sources
-Quantum Bit-Commitment
-Optimal Two-Qubit Gates
-Quantum Channel Capacities
+1. D Loss et. al., “Quantum computation with quantum dots” Phys. Rev A 57, 120 (1998)
+1. J. M. Elzerman et. al., “Single-shot read-out of an individual electron spin in a quantum dot”, nature 430, 431 (2004)
+1. F. H. L. Koppens et. al., “Driven coherent oscillations of a single electron spin in a quantum dot”, nature 442, 766 (2006)
+1. R. Hanson et. al., “Spins in few-electron quantum dots”, Rev. Mod. Phys, 79, 1217 (2007)
+1. M. Veldhorst et. al., “An addressable quantum dot qubit with fault-tolerant control-fidelity”, nature nanotechnology, 9, 981 (2014)
+1. M. Veldhorst et. al., “A two-qubit logic gate in silicon”, nature 526, 410 (2015)
+1. L. M. K. Vandersypen et. al., “Interfacing spin qubits in quantum dots and donors—hot, dense, and coherent”, npj Quantum Information 3, 1 (2017), open access doi:10.1038/s41534-017-0038-y
+1. T. F. Watson et. al., “A programmable two-qubit quantum processor in silicon”, nature 555, 633 (2018)
+- NV-centers
+1. G. Waldherr et. al. “Quantum error correction in a solid-state hybrid spin register”, nature 506, 204 (2014)
+1. B. Hensen et. al., “Loophole-free Bell inequality violation using electron spins separated by 1.3 kilometres”, nature, 526, 682 (2015)
+1. G. Tosi et. al., “Silicon quantum processor with robust long-distance qubit couplings” Nat. Commun. 8, 450 (2017)
+1. P.C. Humphreys et. al., “Deterministic delivery of remote entanglement on a quantum network”, nature, 558, 268 (2018)
+- Photonic
+1. E. Knill et. al., “A scheme for efficient quantum computation with linear optics”, nature, 409, 46 (2001)
+1. J.L. O'Brien, “Optical Quantum Computing”, Science 318, 1567 (2007)
+1. Xing-Can Yao et. al., “Experimental demonstration of topological error correction”, nature 482, 489 (2012)
+1. T. Meany et. al., “Engineering integrated photonics for heralded quantum gates”, Sci. Rep. 6, 25126 (2016)
+1. J-I Yoshikawa et. al., “Generation of one-million-mode continuous-variable cluster state by unlimited time-domain multiplexing”, APL Photon. 1, 060801 (2016)
+- Superconducting
+1. Before diving deep into the papers, it is recommended to study this introduction to the subject that adopts the elegant Lagrangian formalism to set up the field. 
+1. U. Vool, M. Devoret, Introduction to Quantum Electromagnetic Circuits arXiv:1610.03438 (2017)
+1. Y. Nakamura et. al., “Coherent control of macroscopic quantum states in a single-cooper-pair box”, Nature 398, 786 (1999)
+1. Alexandre Blais et. al., “Cavity quantum electrodynamics for superconducting electrical circuits: An architecture for quantum computation ”Phys. Rev A 69, 062320 (2004)
+1. Jens Koch et. al., “Charge-insensitive qubit design derived from the Cooper pair box”, Phys. Rev. A 76, 042319 (2007)
+1. J. A. Schreier et. al., “Suppressing charge noise decoherence in superconducting charge qubits”, Phys. Rev. B 77, 180502(R) (2008)
+1. Austin G. Fowler, “Surface codes: Towards practical large-scale quantum computation”, Phys. Rev. A 86, 032324 (2012)
+1. M.H. Devoret et. al., “Superconducting circuits for quantum information: an outlook” Science 339, 1169 (2013)
+1. Jerry M. Chow et. al., “Implementing a strand of a scalable fault-tolerant quantum computing fabric”, nature communications 5, 1 (2014)
+1. S. Asaad et. al., “Independent, extensible control of same-frequency superconducting qubits by selective broadcasting”, npj Quantum Information 2, 1 (2016), open access doi:10.1038/npjqi.2016.29
+1. T. Walter et. al., Rapid High-Fidelity Single-Shot Dispersive Readout of Superconducting Qubits Phys., Rev. Applied 7, 054020 (2017)
+1. R. Versluis et. al., “Scalable Quantum Circuit and Control for a Superconducting Surface Code”, Phys. Rev Applied 8, 034021 (2017)
+- Topological
+1. Y. Oreg et. al., “Helical Liquids and Majorana Bound States in Quantum Wires”, Phys. Rev. Lett. 105, 177002 (2010)
+1. V. Mourik et. al., “Signatures of Majorana Fermions in Hybrid Superconductor-Semiconductor Nanowire Devices”, Science 336, 1003 (2012)
+1. T. Hyart et. al., “Flux-controlled quantum computation with Majorana fermions”, Phys. Rev. B 88, 035121 (2013)
+1. S.R. Plissard, “Formation and electronic properties of InSb nanocrosses”, nature nanotechnology 8, 589 (2013)
+1. D. Car, “Rationally Designed Single-Crystalline Nanowire Networks”, Adv. Mater., 26, 4875 (2014)
+1. S. Nadj-Perge et. al., “Observation of Majorana fermions in ferromagnetic atomic chains on a superconductor”, Science 346, 602 (2014)
+1. D. Aasen et. al., “Milestones Toward Majorana-Based Quantum Computing”, Phys. Rev. X 6, 031016 (2016)
+1. S. Vijay et. al., “Teleportation-based quantum information processing with Majorana zero modes”, Phys. Rev. B 94, 235446 (2016)
+1. S. M. Albrecht, “Exponential protection of zero modes in Majorana islands”, nature 531, 206 (2016)
+1. S. Gazibegovic, “Epitaxy of advanced nanowire quantum devices”, nature 548, 434 (2017)
+1. R.M. Lutchyn et. al., “Transport through a Majorana Island in the Strong Tunneling Regime”, Phys. Rev. Lett. 119, 057002 (2017)
+1. V.T. Lahtinen et. al., “A Short Introduction to Topological Quantum Computation”, arXiv:1705.04103 (2017)
+1. T. Karzig et. al., “Scalable designs for quasiparticle - poisoning - protected topological quantum computation with Majorana zero modes”, Phys. Rev. B 95, 235305 (2017)
+1. H. Zhang, “Quantized Majorana conductance” nature 556, 74 (2018)
+
+
+##### Quantum Cryptography  
+1. A quantum cryptography roadmap by LANL
+
+
+##### Quantum Error Correction  
+1. S. J. Devitt, “Quantum Error Correction for Beginners”, arXiv:0905.2794 (2013)
+1. E. Knill et. al., “Introduction to Quantum Error Correction”, arxiv:quant-ph/0207170 (2008)
+1. D. Gottesman, “Stabilizer Codes and Quantum Error Correction” (Thesis) arXiv:quant-ph/9705052 (1997)
+- Group theoretic approach
+1. A. R. Calderbank et. al., “Quantum Error Correction and Orthogonal Geometry”, Phys. Rev. Lett. 78, 405 (1997)
+1. A. R. Calderbank et. al.,, “Quantum Error Correction Via Codes Over GF (4)”, arXiv:quant-ph/9608006 (1997)
+- Fault tolerance
+1. P.W Shor, “Fault-tolerant quantum computation”, arXiv:quant-ph/9605011 (1996)
+1. J. Preskill, “Fault-tolerant quantum computation” arXiv:quant-ph/9712048 (1997)
+1. A.R. Calderbank and P.W. Shor, “Good quantum error-correcting codes exist”, Phys. Rev. A 54, 1098 (1996)
+
+##### Quantum Machine Learning  
+1. A github repository of resources
+
+
+##### More topics (Mainly Open Problems)
+- Quantum Error Correction Beyond Stabilizer States
+- Efficient Classical Simulation of Stabilizer Circuits
+- What is the Threshold for Reliable Classical Computation 
+- Simulating Quantum Mechanics from the Gottesman-Knill Theorem
+- Canonical Decompositions of Quantum Circuits
+- Fault Tolerant Quantum Computation with 5-qubit and CWS Codes
+- Magic States for Universal Quantum Computing
+- Classical Circuits and the Ck Family
+- Threshold for Fault-Tolerant Quantum Computation
+- Blind Quantum Computation
+- New Quantum Algorithms for Hard Problems
+- Quantum Algorithm on Graphs
+- Shur: Beyond the Quantum Fourier Transform
+- Post-Quantum Cryptography
+- Public Key Quantum Cryptography
+- Entropies of Various Quantum Sources
+- Quantum Bit-Commitment
+- Optimal Two-Qubit Gates
+- Quantum Channel Capacities
 
 
 
