@@ -11,8 +11,7 @@ The guide assumes some knowledge of linear algebra and some programming language
 
 
 ### Contents
-
-- [LINEAR ALGEBRA](#LINEAR-ALGEBRA)
+- [PREREQUISITES](#prerequisites)
 - [ONLINE COURSES](#ONLINE-COURSES)
 - [MANUALS](#MANUALS)
 - [LECTURE NOTES](#LECTURE-NOTES)
