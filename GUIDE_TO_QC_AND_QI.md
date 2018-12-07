@@ -198,7 +198,7 @@ Quantum Computing Stack Exchange is a question and answer site for engineers, sc
 ### RESEARCH TOPICS WITH REFERENCES
 
 ##### _READING SCIENTIFIC ARTICLES_
-Before diving deep into research and read scientific papers, we suggest the reader to follow this guideline:
+Before diving deep into research and read scientific papers, we suggest the reader to follow this guideline (adapted from "Quantum Computing for Computer Scientists" manual cited in [MANUALS](#MANUALS)):
 
 
 Do not be deterred if an article seems impenetrable. Keep in mind that professors and professionals also struggle to understand these articles, and take comfort in this epigram usually attributed to the great physicist Richard Feynman:
@@ -211,7 +211,7 @@ Some articles are difficult to understand not only because quantum theory is dev
 
 _Once you understand an article’s purpose and structure, you are ready to read the full article. To maximize comprehension and minimize frustration, follow these tips_:  
 
-1.**Read actively. Take notes while you read. Underline key phrases; mark important passages; record important points; sketch arguments and proofs; and reproduce calculations. (Of course, don’t write on anything owned by a library; make copies instead)**
+1. **Read actively. Take notes while you read. Underline key phrases; mark important passages; record important points; sketch arguments and proofs; and reproduce calculations. (Of course, don’t write on anything owned by a library; make copies instead)**
 1. **Don’t dwell. Skim or skip difficult parts and return to them later. They might make more sense after you have read subsequent sections**
 1. **Consult the bibliography. If something confuses you, one of the cited articles might explain it better or provide helpful background information**
 1. **Read the article multiple times. You’ll understand more with each pass**
