@@ -10,9 +10,10 @@ jupyter notebooks, code and other artefacts
 | Topic           			| Reference/link		 			| Description/link 		  				    			 | Presenter          |
 | :----            			|	:----: 	 	         			|     :----:      						    			 |          ----:     |
 |					|				 			|											 |		      |
+| 25. Quantum Machine Learning		|[arXiv:1804.10068](https://arxiv.org/abs/1804.10068)	| Introduction to QML (at YerevaNN)							 | Hakob Avetisyan    |
 | 24. Boson Sampling			|[arXiv:1406.6767](https://arxiv.org/abs/1406.6767)	| An Introduction to Boson Sampling (at YerPhI)			 			 | Hakob Avetisyan    |
 | 23. Quantum Chemistry         	|[arXiv:1605.03590](https://arxiv.org/abs/1605.03590) 	| Elucidating reaction mechanisms on quantum computers (at YerPhI) 			 | Arshak Hovhannisyan|
-| 22. Quantum Cryptography      	|[[Presentation](https://github.com/gate42qc/seminars/blob/master/ArmSec.pdf) | Talk at ArmSec Conference (Yerevan)		 		 | Nshan Barseghyan   |
+| 22. Quantum Cryptography      	|[Presentation](https://github.com/gate42qc/seminars/blob/master/ArmSec.pdf) | Talk at ArmSec Conference (Yerevan)		 		 | Nshan Barseghyan   |
 | 21. HHL algorithm             	|[arXiv:0811.3171](https://arxiv.org/abs/0811.3171) 	|Quantum algorithm for solving linear systems of equations (at YerPhI) 	 		 | Hakob Avetisyan    |
 | 20. Quantum RAM               	|[arXiv:0708.1879](https://arxiv.org/pdf/0708.1879) 	|Quantum Random Access Memory (at YerPhI)                            			 | Hakob Avetisyan    |
 | 19. Quantum machine learning  	|[arXiv:1307.0411](https://arxiv.org/pdf/1307.0411) 	|Quantum algorithms for supervised and unsupervised machine learning (at YerPhI)	 | Hakob Avetisyan    |
