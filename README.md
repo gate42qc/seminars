@@ -10,6 +10,7 @@ jupyter notebooks, code and other artefacts
 | Topic           			| Reference/link		 			| Description/link 		  				    			 | Presenter          |
 | :----            			|	:----: 	 	         			|     :----:      						    			 |          ----:     |
 |					|				 			|											 |		      |
+| 26. Mermin'a Magic Square Game	|[Am.J.Phys. 72, 1303 (2004)](https://docs.google.com/viewer?url=https%3A%2F%2Fwww.physics.wisc.edu%2Fundergrads%2Fcourses%2Fspring2014%2F407%2Fexperiments%2Fbell%2FBell%27s%2520Theorem%2520Background%2520Papers%2FAravind_mysteries_Am.J.P.72.1303.pdf)			| Mermin'a Magic Square Game (at YerPhI)						 | Arshak Hovhannisyan|
 | 25. Quantum Machine Learning		|[arXiv:1804.10068](https://arxiv.org/abs/1804.10068)	| Introduction to QML (at YerevaNN)							 | Hakob Avetisyan    |
 | 24. Boson Sampling			|[arXiv:1406.6767](https://arxiv.org/abs/1406.6767)	| An Introduction to Boson Sampling (at YerPhI)			 			 | Hakob Avetisyan    |
 | 23. Quantum Chemistry         	|[arXiv:1605.03590](https://arxiv.org/abs/1605.03590) 	| Elucidating reaction mechanisms on quantum computers (at YerPhI) 			 | Arshak Hovhannisyan|
