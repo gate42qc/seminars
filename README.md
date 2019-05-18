@@ -10,6 +10,7 @@ jupyter notebooks, code and other artefacts
 | Topic           			| Reference/link		 			| Description/link 		  				    			 | Presenter          |
 | :----            			|	:----: 	 	         			|     :----:      						    			 |          ----:     |
 |					|				 			|											 |		      |
+| 29. Quantum Computers and the Promise	|| [Presentation](https://github.com/gate42qc/seminars/blob/master/QC_presentations/QC_and_the_promise.pdf) at Russian-Armenian University's weekly seminars| Hakob Avetisyan   |
 | 28. GATE MODEL, ADIABATIC, ANNEALING AND VARIATIONAL QUANTUM COMPUTING| 			| Presentation at A. Alikhanyan National Laboratory weekly seminars			 | Hakob Avetisyan    |
 | 27. Talk at AANL workshop		|							| A. Alikhanyan National Laboratory, Fostering Synergy Between Science & Industry 	 | Hakob Avetisyan    |
 | 26. Mermin'a Magic Square Game	|[Am.J.Phys. 72, 1303 (2004)](https://docs.google.com/viewer?url=https%3A%2F%2Fwww.physics.wisc.edu%2Fundergrads%2Fcourses%2Fspring2014%2F407%2Fexperiments%2Fbell%2FBell%27s%2520Theorem%2520Background%2520Papers%2FAravind_mysteries_Am.J.P.72.1303.pdf)			| Mermin'a Magic Square Game (at YerPhI)						 | Arshak Hovhannisyan|
