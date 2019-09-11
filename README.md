@@ -10,6 +10,8 @@ jupyter notebooks, code and other artefacts
 | Topic           			| Reference/link		 			| Description/link 		  				    			 | Presenter          |
 | :----            			|	:----: 	 	         			|     :----:      						    			 |          ----:     |
 |					|				 			|											 |		      |
+| 31.  Boson sampling and possible applications to percolation theory|                          |  The original boson sampling, as well as gaussian boson sampling protocols is introduced. The mathematical models are described, and the relevance in modern quantum computing research is pointed out. Finally discussed some possible applications of these protocols in percolation problems.                                                         | Hayk Sargsyan      |
+
 | 30. Quantum computing with continuous variables || [Presentation](https://github.com/gate42qc/seminars/blob/master/QC_presentations/ISOP2019_cv_qc_presentation.ipynb) at International School on Optics and Photonics ISOP 2019, RAU | Hayk Sargsyan |
 | 29. Quantum Computers and the Promise	|| [Presentation](https://github.com/gate42qc/seminars/blob/master/QC_presentations/QC_and_the_promise.pdf) at Russian-Armenian University's weekly seminars| Hakob Avetisyan   |
 | 28. GATE MODEL, ADIABATIC, ANNEALING AND VARIATIONAL QUANTUM COMPUTING| 			| Presentation at A. Alikhanyan National Laboratory weekly seminars			 | Hakob Avetisyan    |
