@@ -10,6 +10,7 @@ jupyter notebooks, code and other artefacts
 | Topic           			| Reference/link		 			| Description/link 		  				    			 | Presenter          |
 | :----            			|	:----: 	 	         			|     :----:      						    			 |          ----:     |
 |					|				 			|											 |		      |
+| 36. Quantum computers. How to program them?|[Presentation](https://github.com/.../QC_presentations/programming%20qc.pdf) and [Tutorial](https://github.com/gate42qc/Tutorials/blob/master/Intro%20to%20QC/Introduction%20to%20Quantum%20Computing%20with%20Qiskit.ipynb)|						 | Hakob Avetisyan    |
 | 35. Practical Application Areas of Quantum Computing|     |[Practical Application Areas of Quantum Computing](https://www.facebook.com/FoundationFAST/videos/2373728776211380/?t=17414)| Hakob Avetisyan    |
 | 34. How To Join The QC Ecosystem	|					 	       |[How To Join The QC Ecosystem](https://www.facebook.com/STCConf/videos/1130531360484911/)| Hakob Avetisyan    |
 | 33. Quantum Supremacy (Google-Nasa)   |                                                       | Discussion of Google & NASA's report on quantum supremacy using a processor with programmable superconducting qubits         | Hakob Avetisyan    |
