@@ -10,6 +10,8 @@ jupyter notebooks, code and other artefacts
 | Topic           			| Reference/link		 			| Description/link 		  				    			 | Presenter          |
 | :----            			|	:----: 	 	         			|     :----:      						    			 |          ----:     |
 |					|				 			|											 |		      |
+| 37. Non-Markovian dynamics of systems coupled to heat-bath(s) with same/different statistics| |Langevin approach used for derivations, approximations, numerical
+methods used and results obtained in papers [1](https://doi.org/10.1016/j.physa.2018.04.008), [2](https://doi.org/10.1103/PhysRevE.97.032134). The case of a system simultaneously coupled to fermionic and bosonic heat-baths.|Arshak Hovhannisyan|
 | 36. Quantum computers. How to program them?|[Presentation](https://github.com/.../QC_presentations/programming%20qc.pdf) and [Tutorial](https://github.com/gate42qc/Tutorials/blob/master/Intro%20to%20QC/Introduction%20to%20Quantum%20Computing%20with%20Qiskit.ipynb)|						 | Hakob Avetisyan    |
 | 35. Practical Application Areas of Quantum Computing|     |[Practical Application Areas of Quantum Computing](https://www.facebook.com/FoundationFAST/videos/2373728776211380/?t=17414)| Hakob Avetisyan    |
 | 34. How To Join The QC Ecosystem	|					 	       |[How To Join The QC Ecosystem](https://www.facebook.com/STCConf/videos/1130531360484911/)| Hakob Avetisyan    |
